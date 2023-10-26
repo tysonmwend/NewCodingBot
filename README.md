@@ -1,0 +1,2 @@
+# NewCodingBot
+new repository
